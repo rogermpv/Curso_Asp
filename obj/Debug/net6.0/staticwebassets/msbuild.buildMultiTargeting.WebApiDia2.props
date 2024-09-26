@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebApiDia2.props" />
+</Project>
